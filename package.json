@@ -21,7 +21,7 @@
     "docopt": "^0.6.2",
     "lodash": "4.17.2",
     "rc": "^1.1.6",
-    "serialport": "~4.0.3",
+    "serialport": "4.0.3",
     "split": "^1.0.0",
     "text-table": "^0.2.0"
   },
